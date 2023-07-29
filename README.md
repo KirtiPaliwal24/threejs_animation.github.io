@@ -4,4 +4,6 @@ It is a sample project developed using Three.js, Javascript, Node.js, HTML, CSS.
 
 The images used in the project all belongs to Swag. The project is a sample project and is not developed for commercial purpose.
 
+You can preview the project by visiting this [link](https://kirtipaliwal24.github.io/threejs_animation.github.io/).
+
 
